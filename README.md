@@ -1,3 +1,3 @@
 # FifteenPuzzle
 
-An HTML/CSS/JavaScript FifteenPuzzle that has 4 different boards to chose from.
+A HTML/JavaScript/CSS project created with 15 puzzle pieces numbered 1-15.
