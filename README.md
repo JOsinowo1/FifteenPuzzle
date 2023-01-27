@@ -1,4 +1,5 @@
 # FifteenPuzzle
+Puzzle game with multiple combinations to solve
 
 A HTML/JavaScript/CSS project created with 15 puzzle pieces numbered 1-15. This prgram will allow users to:
 
