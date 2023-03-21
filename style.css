@@ -71,6 +71,7 @@ a {
 
 #img_options_container {
   display: flex;
+  border: 0px;
   flex-direction: row;
   padding-bottom: 25px;
   justify-content: center;
@@ -124,7 +125,7 @@ a {
 .shuffle-button {
   display: block;
   margin: 25px auto 25px auto;
-  background-color: lightgreen;
+  background-color: lightblue;
   border-radius: 12px;
   font-size: 24px;
   padding: 12px 28px;
